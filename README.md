@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Icaruk</h1>
 <h3 align="center">Full stack developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=icaruk&label=Profile%20views&color=0e75b6&style=flat" alt="icaruk" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icaruk&label=Profile%20views&color=0e75b6&style=flat" alt="icaruk" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icaruk" alt="icaruk" /></a> </p>
+# NPM packages
 
-- 🔭 I’m currently working on [Economos](https://economos.app)
+- [validame](https://www.npmjs.com/package/validame): javascript string validator that returns the error message.
+- [objdeepset](https://www.npmjs.com/package/objdeepset): javascript immutable object deep setter.
+- [@icaruk/debounce](https://www.npmjs.com/package/@icaruk/debounce): javascript debouncer that instead returning a debounced function it will execute it after the specified time.
+- [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
+
+
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icaruk&show_icons=true&locale=en" alt="icaruk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icaruk&" alt="icaruk" /></p>
