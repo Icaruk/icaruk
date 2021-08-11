@@ -10,7 +10,7 @@
 - [objdeepset](https://www.npmjs.com/package/objdeepset): javascript immutable object deep setter.
 - [@icaruk/debounce](https://www.npmjs.com/package/@icaruk/debounce): javascript debouncer that instead returning a debounced function it will execute it after the specified time.
 - [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
-- [getref](https://www.npmjs.com/package/getref): Safely get the reference of a nested property from an object.
+- [objeto](https://www.npmjs.com/package/objeto): Object helper to get, set, delete and check nested properties without risk.
 
 
 <br>
