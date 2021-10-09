@@ -6,11 +6,11 @@
 
 # NPM packages
 
-- [validame](https://www.npmjs.com/package/validame): javascript string validator that returns the error message.
-- [cajache](https://www.npmjs.com/package/cajache): minimalistic javascript caching library.
-- [objdeepset](https://www.npmjs.com/package/objdeepset): javascript immutable object deep setter.
-- [@icaruk/debounce](https://www.npmjs.com/package/@icaruk/debounce): javascript debouncer that instead returning a debounced function it will execute it after the specified time.
 - [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
+- [cajache](https://www.npmjs.com/package/cajache): minimalistic javascript caching library.
+- [validame](https://www.npmjs.com/package/validame): javascript string validator that returns the error message.
+- [@icaruk/debounce](https://www.npmjs.com/package/@icaruk/debounce): javascript debouncer that instead returning a debounced function it will execute it after the specified time.
+- [objdeepset](https://www.npmjs.com/package/objdeepset): javascript immutable object deep setter.
 - [objeto](https://www.npmjs.com/package/objeto): Object helper to get, set, delete and check nested properties without risk.
 
 
