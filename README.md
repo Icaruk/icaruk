@@ -7,6 +7,7 @@
 # NPM packages
 
 - [validame](https://www.npmjs.com/package/validame): javascript string validator that returns the error message.
+- [cajache](https://www.npmjs.com/package/cajache): minimalistic javascript caching library.
 - [objdeepset](https://www.npmjs.com/package/objdeepset): javascript immutable object deep setter.
 - [@icaruk/debounce](https://www.npmjs.com/package/@icaruk/debounce): javascript debouncer that instead returning a debounced function it will execute it after the specified time.
 - [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
