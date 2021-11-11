@@ -17,7 +17,7 @@
 <br>
 
 
-<a href="https://app.daily.dev/Icaruk"><img src="https://api.daily.dev/devcards/ceea7007b4834642a78e97bffb660fbd.png?r=734" width="400" alt="Icaruk's Dev Card"/></a>
+<a href="https://app.daily.dev/Icaruk"><img src="https://github.com/Icaruk/icaruk/blob/master/devcard.svg" width="400" alt="Icaruk's Dev Card"/></a>
 
 <br>
 
