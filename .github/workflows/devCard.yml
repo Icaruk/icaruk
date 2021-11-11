@@ -1,2 +1,8 @@
 - name: @dailydotdev/devcard
+  # You may pin to the exact commit or the version.
+  # uses: dailydotdev/action-devcard@fff2fc6daba03f3c036c454ff1a62864c116e706
   uses: dailydotdev/action-devcard@2.0.4
+  with:
+    # The ID of the devcard
+    devcard_id: ${{ secrets.DEVCARD_ID }}
+    # GitHub Token used to commit the devcard
