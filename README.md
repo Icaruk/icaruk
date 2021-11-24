@@ -22,7 +22,7 @@
 
 # NPM packages
 
-- [entor](https://www.npmjs.com/package/entor): environment variables loader from a JSON file into process.env, including shared environments for all your projects.
+- [entor](https://www.npmjs.com/package/entor): entor loads environment variables from JSON files into process.env and supports shared environments.
 - [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
 - [cajache](https://www.npmjs.com/package/cajache): minimalistic javascript caching library.
 - [validame](https://www.npmjs.com/package/validame): javascript string validator that returns the error message.
