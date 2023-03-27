@@ -22,6 +22,7 @@
 
 # NPM packages
 
+- [npm-up](www.npmjs.com/package/up-npm) CLI tool written in Go to review and update your NPM dependencies, easy and fast.
 - [entor](https://www.npmjs.com/package/entor): entor loads environment variables from JSON files into process.env and supports shared environments.
 - [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
 - [cajache](https://www.npmjs.com/package/cajache): minimalistic javascript caching library.
