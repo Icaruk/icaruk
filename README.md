@@ -6,7 +6,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=icaruk&label=Profile%20views&color=0e75b6&style=flat" alt="icaruk" />
     
-  <a href="https://app.daily.dev/Icaruk" target="_blank" >
+  <a href="https://app.daily.dev/icaruk" target="_blank" >
     <img
       src="https://github.com/Icaruk/icaruk/blob/master/devcard.svg"
       width="275"
