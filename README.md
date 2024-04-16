@@ -22,6 +22,7 @@
 
 # NPM packages
 
+- [sincro](https://www.npmjs.com/package/sincro) CLI tool written in Go to sync your files between a source and multiple destinations.
 - [up-npm](https://www.npmjs.com/package/up-npm) CLI tool written in Go to review and update your NPM dependencies, easy and fast.
 - [entor](https://www.npmjs.com/package/entor): entor loads environment variables from JSON files into process.env and supports shared environments.
 - [dame](https://www.npmjs.com/package/dame): minimalistic HTTP client for the browser and Node.js.
