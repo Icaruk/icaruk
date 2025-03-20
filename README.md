@@ -2,7 +2,7 @@
 <div align="left">
   
   # Hi 👋, I'm Icaruk
-  Full stack developer
+  ~~Full stack~~ backend developer
 
   <img src="https://komarev.com/ghpvc/?username=icaruk&label=Profile%20views&color=0e75b6&style=flat" alt="icaruk" />
     
