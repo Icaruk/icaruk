@@ -21,6 +21,7 @@
 
 # Projects
 
+- [Albion profit](https://github.com/Icaruk/albion-profit) Tool that enables users to semi-automatically calculate the profit of any combination of one product with multiple ingredients for the Albion Online videogame.
 - [Epoch](https://github.com/Icaruk/epoch) Unix epoch timestamp converter: convert between epoch timestamps (milliseconds, seconds or ISO 8601) and human-readable dates with automatic timezone detection.
 - [Permutations and combinations](https://github.com/Icaruk/permutations-and-combinations) Permutations and combinations generator.
 - [tic-tac-toe](https://github.com/Icaruk/3-en-raya-b) Tic-tac-toe vs computer and global leaderboard.
